@@ -1,0 +1,25 @@
+{
+    "name": "playwright-skill",
+    "source": "./skills/playwright-skill",
+    "description": "Claude Code Skill for general-purpose browser automation with Playwright. Claude autonomously writes and executes custom automation for testing pages, validating UX, and any browser task.",
+    "version": "1.0.0",
+    "author": {
+      "name": "hmps"
+    },
+    "homepage": "https://github.com/hmps/claude-marketplace",
+    "repository": "https://github.com/hmps/claude-marketplace",
+    "license": "MIT",
+    "keywords": [
+      "claude-skill",
+      "claude-code",
+      "playwright",
+      "browser-automation",
+      "testing",
+      "e2e",
+      "web-testing",
+      "automation",
+      "model-invoked"
+    ],
+    "category": "testing",
+    "tags": ["browser", "automation", "playwright", "testing", "e2e"]
+  }
