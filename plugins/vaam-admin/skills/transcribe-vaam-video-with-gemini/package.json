@@ -1,0 +1,15 @@
+{
+  "name": "transcribe-vaam-video-with-gemini",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@google/generative-ai": "0.24.1"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
